@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_project_title">#5f4747</color>
+    <color name="main_project_hour">#fe7171</color>
+    <color name="main_project_subtitle">#f1b8b8</color>
+    <color name="background_grey_white">#f1f0f0</color>
+</resources>
